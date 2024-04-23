@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\dtos\\bibliotecadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:dtos\\bibliotecadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\dtos\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:dtos\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\utilidades\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:utilidades\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\ejercicio1global\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1D55A1-EE23-47C3-8933-6AEF6B3C9B95}|ejercicio1Global.csproj|solutionrelative:dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\utilidades\\Util.cs",
+              "RelativeDocumentMoniker": "utilidades\\Util.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\utilidades\\Util.cs",
+              "RelativeToolTip": "utilidades\\Util.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:48:46.443Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperativaInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\servicios\\OperativaInterfaz.cs",
+              "RelativeDocumentMoniker": "servicios\\OperativaInterfaz.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\servicios\\OperativaInterfaz.cs",
+              "RelativeToolTip": "servicios\\OperativaInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:06:05.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperativaImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\servicios\\OperativaImplementacion.cs",
+              "RelativeDocumentMoniker": "servicios\\OperativaImplementacion.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\servicios\\OperativaImplementacion.cs",
+              "RelativeToolTip": "servicios\\OperativaImplementacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:05:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrestamoDto.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\PrestamoDto.cs",
+              "RelativeDocumentMoniker": "dtos\\PrestamoDto.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\PrestamoDto.cs",
+              "RelativeToolTip": "dtos\\PrestamoDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:57:44.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroDto.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\LibroDto.cs",
+              "RelativeDocumentMoniker": "dtos\\LibroDto.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\LibroDto.cs",
+              "RelativeToolTip": "dtos\\LibroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:55:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "dtos\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\ClienteDto.cs",
+              "RelativeToolTip": "dtos\\ClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:42:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BibliotecaDto.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\BibliotecaDto.cs",
+              "RelativeDocumentMoniker": "dtos\\BibliotecaDto.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\dtos\\BibliotecaDto.cs",
+              "RelativeToolTip": "dtos\\BibliotecaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:38:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\controladores\\Program.cs",
+              "RelativeDocumentMoniker": "controladores\\Program.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\ejercicio1Global\\controladores\\Program.cs",
+              "RelativeToolTip": "controladores\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:10:37.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

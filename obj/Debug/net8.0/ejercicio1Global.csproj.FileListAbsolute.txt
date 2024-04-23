@@ -1,0 +1,4 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1Global\obj\Debug\net8.0\ejercicio1Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1Global\obj\Debug\net8.0\ejercicio1Global.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1Global\obj\Debug\net8.0\ejercicio1Global.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio1Global\obj\Debug\net8.0\ejercicio1Global.csproj.CoreCompileInputs.cache
